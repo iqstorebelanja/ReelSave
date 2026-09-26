@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALLVID</string>
+    <string name="tagline">20+ Platforms Supported</string>
+    <string name="paste_hint">Paste any video URL…</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_fetch">Fetch</string>
+    <string name="btn_download_hd">Download 1080p HD</string>
+    <string name="btn_download_audio">Audio (MP3)</string>
+    <string name="btn_download_cover">Cover (JPG)</string>
+</resources>

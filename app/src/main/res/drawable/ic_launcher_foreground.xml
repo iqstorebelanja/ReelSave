@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.72"
+        android:scaleY="0.72"
+        android:translateX="15.12"
+        android:translateY="15.12">
+        <!-- Film reel / Camera outer ring with Instagram gradient -->
+        <path
+            android:pathData="M54,20 C35.22,20 20,35.22 20,54 C20,72.78 35.22,88 54,88 C72.78,88 88,72.78 88,54 C88,35.22 72.78,20 54,20 Z M54,80 C39.64,80 28,68.36 28,54 C28,39.64 39.64,28 54,28 C68.36,28 80,39.64 80,54 C80,68.36 68.36,80 54,80 Z"
+            android:strokeWidth="1">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:startX="20"
+                    android:startY="88"
+                    android:endX="88"
+                    android:endY="20"
+                    android:type="linear">
+                    <item android:offset="0.0" android:color="#F58529" />
+                    <item android:offset="0.45" android:color="#DD2A7B" />
+                    <item android:offset="0.75" android:color="#8134AF" />
+                    <item android:offset="1.0" android:color="#515BD4" />
+                </gradient>
+            </aapt:attr>
+        </path>
+
+        <!-- Reel sprocket dots -->
+        <path
+            android:pathData="M54,34m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0"
+            android:fillColor="#F58529" />
+        <path
+            android:pathData="M34,54m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0"
+            android:fillColor="#DD2A7B" />
+        <path
+            android:pathData="M74,54m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0"
+            android:fillColor="#515BD4" />
+
+        <!-- Bold Download Arrow in Center -->
+        <path
+            android:pathData="M54,40 L54,64 M45,55 L54,64 L63,55"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:pathData="M42,70 L66,70"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4.5"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

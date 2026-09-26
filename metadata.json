@@ -1,0 +1,8 @@
+{
+  "name": "ALLVID",
+  "description": "ALLVID - Premium Video Downloader. Linear and Raycast inspired design with multi-platform extraction, Quality Gate, and VIP pass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
